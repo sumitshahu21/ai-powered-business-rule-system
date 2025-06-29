@@ -78,8 +78,8 @@ business-rules-app/
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd business-rules-app
+   git clone https://github.com/sumitshahu21/AI-Powered-Business--Rules--Management--System.git
+   cd AI-Powered-Business--Rules--Management--System
    ```
 
 2. **Install dependencies**:
@@ -263,7 +263,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 If you encounter any issues or have questions:
 
 1. Check the [Troubleshooting](#-troubleshooting) section
-2. Review existing [GitHub Issues](link-to-issues)
+2. Review existing [GitHub Issues](https://github.com/sumitshahu21/AI-Powered-Business--Rules--Management--System/issues)
 3. Open a new issue with detailed information about your problem
 
 ---
