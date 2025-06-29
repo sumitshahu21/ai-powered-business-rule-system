@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    border-color: theme('colors.gray.200');
+  }
+  body {
+    background-color: theme('colors.gray.50');
+    color: theme('colors.gray.900');
+  }
+}
